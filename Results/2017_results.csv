@@ -1,0 +1,352 @@
+TEAM,POSTSEASON,YEAR
+Gonzaga,Round_Of_2,1
+North Carolina,Round_Of_1,1
+Kansas,Round_Of_8,1
+Xavier,Round_Of_8,1
+Florida,Round_Of_8,1
+Kentucky,Round_Of_8,1
+Oregon,Round_Of_4,1
+South Carolina,Round_Of_4,1
+Davidson,NA,1
+Duquesne,NA,1
+Fordham,NA,1
+George Mason,NA,1
+George Washington,NA,1
+La Salle,NA,1
+Massachusetts,NA,1
+Richmond,NA,1
+Saint Joseph's,NA,1
+Saint Louis,NA,1
+St. Bonaventure,NA,1
+Boston College,NA,1
+Clemson,NA,1
+Georgia Tech,NA,1
+North Carolina St.,NA,1
+Pittsburgh,NA,1
+Syracuse,NA,1
+Albany,NA,1
+Binghamton,NA,1
+Hartford,NA,1
+Maine,NA,1
+New Hampshire,NA,1
+Stony Brook,NA,1
+UMass Lowell,NA,1
+UMBC,NA,1
+Connecticut,NA,1
+East Carolina,NA,1
+Houston,NA,1
+Memphis,NA,1
+South Florida,NA,1
+Temple,NA,1
+Tulane,NA,1
+Tulsa,NA,1
+UCF,NA,1
+Jacksonville,NA,1
+Kennesaw St.,NA,1
+Lipscomb,NA,1
+NJIT,NA,1
+North Florida,NA,1
+Stetson,NA,1
+USC Upstate,NA,1
+Illinois,NA,1
+Indiana,NA,1
+Iowa,NA,1
+Nebraska,NA,1
+Ohio St.,NA,1
+Penn St.,NA,1
+Rutgers,NA,1
+Oklahoma,NA,1
+TCU,NA,1
+Texas,NA,1
+Texas Tech,NA,1
+DePaul,NA,1
+Georgetown,NA,1
+St. John's,NA,1
+Eastern Washington,NA,1
+Idaho,NA,1
+Idaho St.,NA,1
+Montana,NA,1
+Montana St.,NA,1
+Northern Arizona,NA,1
+Northern Colorado,NA,1
+Portland St.,NA,1
+Sacramento St.,NA,1
+Southern Utah,NA,1
+Weber St.,NA,1
+Campbell,NA,1
+Charleston Southern,NA,1
+Gardner Webb,NA,1
+High Point,NA,1
+Liberty,NA,1
+Longwood,NA,1
+Presbyterian,NA,1
+Radford,NA,1
+UNC Asheville,NA,1
+Cal Poly,NA,1
+Cal St. Fullerton,NA,1
+Cal St. Northridge,NA,1
+Hawaii,NA,1
+Long Beach St.,NA,1
+UC Irvine,NA,1
+UC Riverside,NA,1
+UC Santa Barbara,NA,1
+College of Charleston,NA,1
+Delaware,NA,1
+Drexel,NA,1
+Elon,NA,1
+Hofstra,NA,1
+James Madison,NA,1
+Northeastern,NA,1
+Towson,NA,1
+William & Mary,NA,1
+Charlotte,NA,1
+FIU,NA,1
+Florida Atlantic,NA,1
+Louisiana Tech,NA,1
+Marshall,NA,1
+North Texas,NA,1
+Old Dominion,NA,1
+Rice,NA,1
+Southern Miss,NA,1
+UAB,NA,1
+UTEP,NA,1
+UTSA,NA,1
+Western Kentucky,NA,1
+Cleveland St.,NA,1
+Detroit,NA,1
+Green Bay,NA,1
+Illinois Chicago,NA,1
+Milwaukee,NA,1
+Oakland,NA,1
+Valparaiso,NA,1
+Wright St.,NA,1
+Youngstown St.,NA,1
+Brown,NA,1
+Columbia,NA,1
+Cornell,NA,1
+Dartmouth,NA,1
+Harvard,NA,1
+Penn,NA,1
+Yale,NA,1
+Canisius,NA,1
+Fairfield,NA,1
+Manhattan,NA,1
+Marist,NA,1
+Monmouth,NA,1
+Niagara,NA,1
+Quinnipiac,NA,1
+Rider,NA,1
+Saint Peter's,NA,1
+Siena,NA,1
+Akron,NA,1
+Ball St.,NA,1
+Bowling Green,NA,1
+Buffalo,NA,1
+Central Michigan,NA,1
+Eastern Michigan,NA,1
+Miami OH,NA,1
+Northern Illinois,NA,1
+Ohio,NA,1
+Toledo,NA,1
+Western Michigan,NA,1
+Bethune Cookman,NA,1
+Coppin St.,NA,1
+Delaware St.,NA,1
+Florida A&M,NA,1
+Hampton,NA,1
+Howard,NA,1
+Maryland Eastern Shore,NA,1
+Morgan St.,NA,1
+Norfolk St.,NA,1
+North Carolina A&T,NA,1
+Savannah St.,NA,1
+South Carolina St.,NA,1
+Bradley,NA,1
+Drake,NA,1
+Evansville,NA,1
+Illinois St.,NA,1
+Indiana St.,NA,1
+Loyola Chicago,NA,1
+Missouri St.,NA,1
+Northern Iowa,NA,1
+Southern Illinois,NA,1
+Air Force,NA,1
+Boise St.,NA,1
+Colorado St.,NA,1
+Fresno St.,NA,1
+New Mexico,NA,1
+San Diego St.,NA,1
+San Jose St.,NA,1
+UNLV,NA,1
+Utah St.,NA,1
+Wyoming,NA,1
+Bryant,NA,1
+Central Connecticut,NA,1
+Fairleigh Dickinson,NA,1
+LIU Brooklyn,NA,1
+Robert Morris,NA,1
+Sacred Heart,NA,1
+St. Francis NY,NA,1
+St. Francis PA,NA,1
+Wagner,NA,1
+Austin Peay,NA,1
+Belmont,NA,1
+Eastern Illinois,NA,1
+Eastern Kentucky,NA,1
+Morehead St.,NA,1
+Murray St.,NA,1
+SIU Edwardsville,NA,1
+Southeast Missouri St.,NA,1
+Tennessee Martin,NA,1
+Tennessee St.,NA,1
+Tennessee Tech,NA,1
+Arizona St.,NA,1
+California,NA,1
+Colorado,NA,1
+Oregon St.,NA,1
+Stanford,NA,1
+Utah,NA,1
+Washington,NA,1
+Washington St.,NA,1
+American,NA,1
+Army,NA,1
+Boston University,NA,1
+Colgate,NA,1
+Holy Cross,NA,1
+Lafayette,NA,1
+Lehigh,NA,1
+Loyola MD,NA,1
+Navy,NA,1
+Appalachian St.,NA,1
+Arkansas St.,NA,1
+Coastal Carolina,NA,1
+Georgia Southern,NA,1
+Georgia St.,NA,1
+Little Rock,NA,1
+Louisiana Lafayette,NA,1
+Louisiana Monroe,NA,1
+South Alabama,NA,1
+Texas St.,NA,1
+UT Arlington,NA,1
+Chattanooga,NA,1
+Furman,NA,1
+Mercer,NA,1
+Samford,NA,1
+The Citadel,NA,1
+UNC Greensboro,NA,1
+VMI,NA,1
+Western Carolina,NA,1
+Wofford,NA,1
+Alabama,NA,1
+Auburn,NA,1
+Georgia,NA,1
+LSU,NA,1
+Mississippi,NA,1
+Mississippi St.,NA,1
+Missouri,NA,1
+Tennessee,NA,1
+Texas A&M,NA,1
+Abilene Christian,NA,1
+Central Arkansas,NA,1
+Houston Baptist,NA,1
+Incarnate Word,NA,1
+Lamar,NA,1
+McNeese St.,NA,1
+Nicholls St.,NA,1
+Northwestern St.,NA,1
+Sam Houston St.,NA,1
+Southeastern Louisiana,NA,1
+Stephen F. Austin,NA,1
+Texas A&M Corpus Chris,NA,1
+Denver,NA,1
+Fort Wayne,NA,1
+IUPUI,NA,1
+Nebraska Omaha,NA,1
+North Dakota St.,NA,1
+Oral Roberts,NA,1
+South Dakota,NA,1
+Western Illinois,NA,1
+Alabama A&M,NA,1
+Alabama St.,NA,1
+Alcorn St.,NA,1
+Arkansas Pine Bluff,NA,1
+Grambling St.,NA,1
+Jackson St.,NA,1
+Mississippi Valley St.,NA,1
+Prairie View A&M,NA,1
+Southern,NA,1
+Cal St. Bakersfield,NA,1
+Chicago St.,NA,1
+Grand Canyon,NA,1
+Seattle,NA,1
+UMKC,NA,1
+UT Rio Grande Valley,NA,1
+Utah Valley,NA,1
+BYU,NA,1
+Loyola Marymount,NA,1
+Pacific,NA,1
+Pepperdine,NA,1
+Portland,NA,1
+San Diego,NA,1
+San Francisco,NA,1
+Santa Clara,NA,1
+Rhode Island,Round_Of_32,1
+Duke,Round_Of_32,1
+Florida St.,Round_Of_32,1
+Louisville,Round_Of_32,1
+Notre Dame,Round_Of_32,1
+Virginia,Round_Of_32,1
+Cincinnati,Round_Of_32,1
+Michigan St.,Round_Of_32,1
+Northwestern,Round_Of_32,1
+Iowa St.,Round_Of_32,1
+Villanova,Round_Of_32,1
+Middle Tennessee,Round_Of_32,1
+Wichita St.,Round_Of_32,1
+USC,Round_Of_32,1
+Arkansas,Round_Of_32,1
+Saint Mary's,Round_Of_32,1
+Dayton,Round_Of_64,1
+VCU,Round_Of_64,1
+Miami FL,Round_Of_64,1
+Virginia Tech,Round_Of_64,1
+Vermont,Round_Of_64,1
+SMU,Round_Of_64,1
+Florida Gulf Coast,Round_Of_64,1
+Maryland,Round_Of_64,1
+Minnesota,Round_Of_64,1
+Kansas St.,Round_Of_64,1
+Oklahoma St.,Round_Of_64,1
+Creighton,Round_Of_64,1
+Marquette,Round_Of_64,1
+Seton Hall,Round_Of_64,1
+North Dakota,Round_Of_64,1
+Winthrop,Round_Of_64,1
+UC Davis,Round_Of_64,1
+UNC Wilmington,Round_Of_64,1
+Northern Kentucky,Round_Of_64,1
+Princeton,Round_Of_64,1
+Iona,Round_Of_64,1
+Kent St.,Round_Of_64,1
+Nevada,Round_Of_64,1
+Mount St. Mary's,Round_Of_64,1
+Jacksonville St.,Round_Of_64,1
+Bucknell,Round_Of_64,1
+Troy,Round_Of_64,1
+East Tennessee St.,Round_Of_64,1
+Vanderbilt,Round_Of_64,1
+South Dakota St.,Round_Of_64,1
+Texas Southern,Round_Of_64,1
+New Mexico St.,Round_Of_64,1
+Wake Forest,Round_Of_68,1
+Providence,Round_Of_68,1
+North Carolina Central,Round_Of_68,1
+New Orleans,Round_Of_68,1
+Michigan,Round_Of_16,1
+Purdue,Round_Of_16,1
+Wisconsin,Round_Of_16,1
+Baylor,Round_Of_16,1
+West Virginia,Round_Of_16,1
+Butler,Round_Of_16,1
+Arizona,Round_Of_16,1
+UCLA,Round_Of_16,1
