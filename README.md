@@ -54,46 +54,116 @@ The purpose of this project is to produce a model to predict the winners of the 
 - This project will help to practice newly acquired data science skills
 
 #### Built With:
-Code Editor
-* [VSCode](https://code.visualstudio.com)
-<img src="Images/vs-code-icon.png" alt="Logo" width="128" height="128">
 
-Developer Platform
-* [GitHub](https://github.com/wmauz677)
+<!-- ##### Table 1 -->
+<table border="3">
 
-Terminal
-* [iTerm2](https://iterm2.com)
+  <tr align="center">
+   <td></td>
+   <td><img src="Images/vs-code-icon.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/jupyter-logo.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/python-logo.png" alt="Logo" width="64" height="64"></td>
+  </tr>
 
-Operating System
-* [MacOS](https://www.apple.com/macos/monterey/)
+ </tr>
+ <tr align="center">
+ 
+  <td><strong>Name</strong</td>
+  <td>
+  <a href="https://code.visualstudio.com">VSCode</a>
+  </td>
+  <td>
+   <a href="https://jupyter.org">Jupyter</a>
+  </td>
+  <td>
+   <a href="https://www.python.org">Python</a>
+  </td>
+ </tr>
+ <tr align="center">
+    <td><strong>Purpose</strong</td>
+    <td>Code Editor</td>
+    <td>Notebook</td>
+    <td>Language</td>
+ </tr>
+</table>
+<!-- Table 2 -->
+<table border="3">
 
-Data Visualization
-* [Numbers](https://www.apple.com/numbers/)
+  <tr align="center">
+   <td></td>
+   <td><img src="Images/GitHub-Mark-64px.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/ITERM2.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/MacOS_Monterey_logo.png" alt="Logo" width="64" height="64"></td>
+  </tr>
 
+ </tr>
+ <tr align="center">
+ 
+  <td><strong>Name</strong</td>
+  <td>
+  <a href="https://github.com/wmauz677">Github</a>
+  </td>
+  <td>
+   <a href="https://iterm2.com">iTerm2</a>
+  </td>
+  <td>
+   <a href="https://www.python.org">MacOS</a>
+  </td>
+ </tr>
+ <tr align="center">
+    <td><strong>Purpose</strong</td>
+    <td>Developer Platform</td>
+    <td>Terminal</td>
+    <td>Operating System</td>
+ </tr>
+</table>
 
+<!-- ##### Table 3 -->
+<table border="3">
+
+  <tr align="center">
+   <td></td>
+   <td><img src="Images/numbers-logo.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/scikitlearn-logo.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/feature-engine-logo.png" alt="Logo" width="64" height="64"></td>
+  </tr>
+
+ </tr>
+ <tr align="center">
+ 
+  <td><strong>Name</strong</td>
+  <td>
+  <a href="https://www.apple.com/numbers/">Numbers</a>
+  </td>
+  <td>
+   <a href="https://scikit-learn.org/stable/">SciKit Learn</a>
+  </td>
+  <td>
+   <a href="https://feature-engine.readthedocs.io/en/latest/">Feature Engine</a>
+  </td>
+ </tr>
+ <tr align="center">
+    <td><strong>Purpose</strong</td>
+    <td>Data Visualization</td>
+    <td>ML Library</td>
+    <td>Data Transformation</td>
+ </tr>
+</table>
 
 # 2. Data Extraction
 
-**Statement:** The data extraction for the project is performed inside of two separate files.
+Data will be collected for all NCAA College basketball teams on Sports Reference website: https://www.sports-reference.com/cbb/
 
-The first file 'dataExploration.ipynb' is intended to only be run once, as it establishes the foundation for the project. The file does the following:
+The data to be collected:
+- Team Names (ex. Colorado Buffaloes)
+- Team Home Page Link ex. 0,1,2)
+- Team Years (years containing stats) (ex. '2002-03')
+- Stat Labels (of data to-be collected) (ex. fg_pct)
 
-- All team names on the webpage, then writes them to 'Data/team_names.csv'
-- Assign Team IDs based on alphabetical index (ex. 0,1,2)
-- Collects the links to each team home page (ex. colorado/, colorado-state/)
-- Collects the links to each year for each team where statistics exist (ex. 2021, 2022)
-- References 'Team' Object (see here -- **insert link**)
-- Creates & writes data to 'teams_dictionary' which is a [key:value] of [team_name:Team] and acts as the main data dictionary in this project. 
-- Locates, Collects, Formats, Writes all stat labels to be collected (ex. mp_per_g, fg_per_g). They are written to: 'Data/stat_labels.csv'
-
-The second file 'dataAcquisition.ipynb' can be run multiple times in different configurations depending on the data the user would like to collect. The file performs the following actions:
-
-- Extracts & Formats team data for a given year
-- Assigns year data to main 'teams_dictionary' & writes 'teams_dictionary' to pkl file: Data/teams_dictionary.pkl
-- Retrieve March Madness Results from csv & translate to result_dictionary with [key:value] of [team_name][rankings_dictionary] where 'rankings_dictionary' is composed of [year:result]
-- Write March Madness Results dictionary to 'result_dictionary.pkl'
-- Reads 'result_dictionary.pkl'
-- Compiles dataframe with all team stats + march madness results for a given year. Writes this dataframe to: 'Data/Madness/{year}.csv'
+Actions to be performed:
+- Establishes 'Team' Object (https://github.com/wmauz677/MarchMadness2023/blob/main/Classes/team.py)
+- Creates teams_dictionary: the main data dictionary where all stats will be stored for all teams for all years
+- Writes teams_dictionary to 'Data/teams_dictionary.pkl'
 
 # 3. Exploratory Data Analysis
 
@@ -106,7 +176,7 @@ Data Source
 * [Sports Reference](https://www.sports-reference.com/cbb/)
 * [Sports Reference Robots.txt](https://www.sports-reference.com/robots.txt)
 
-<img src="Images/robots-text.png" alt="Logo" width="384" height="512">
+<img src="Images/robots-text.png" alt="Logo" width="192" height="256">
 
 # 10. License
 
@@ -118,3 +188,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/wmauz677/marchmadness2023?style=for-the-badge
 [license-url]: https://github.com/wmauz677/personalWeb/blob/gh-pages/LICENSE
 [project-screenshot]: Images/project-screenshot.png
+
+<style>
+mark{
+    color:red;
+}
+</style>
