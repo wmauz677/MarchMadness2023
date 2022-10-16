@@ -54,21 +54,55 @@ The purpose of this project is to produce a model to predict the winners of the 
 - This project will help to practice newly acquired data science skills
 
 #### Built With:
-Code Editor
-* [VSCode](https://code.visualstudio.com)
-<img src="Images/vs-code-icon.png" alt="Logo" width="128" height="128">
+
+<table border="3">
+
+  <tr align="center">
+   <td></td>
+   <td><img src="Images/vs-code-icon.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/jupyter-logo.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/python-logo.png" alt="Logo" width="64" height="64"></td>
+  </tr>
+
+ </tr>
+ <tr align="center">
+ 
+  <td><strong>Name</strong</td>
+  <td>
+  <a href="https://code.visualstudio.com">VSCode</a>
+  </td>
+  <td>
+   <a href="https://jupyter.org">Jupyter</a>
+  </td>
+  <td>
+   <a href="https://www.python.org">Python</a>
+  </td>
+ </tr>
+ <tr align="center">
+    <td><strong>Purpose</strong</td>
+    <td>Code Editor</td>
+    <td>Notebook</td>
+    <td>Language</td>
+ </tr>
+</table>
+
+Libraries
 
 Developer Platform
 * [GitHub](https://github.com/wmauz677)
+<img src="Images/GitHub-Mark-64px.png" alt="Logo" width="64" height="64">
 
 Terminal
 * [iTerm2](https://iterm2.com)
+<img src="Images/ITERM2.png" alt="Logo" width="64" height="64">
 
 Operating System
 * [MacOS](https://www.apple.com/macos/monterey/)
+<img src="Images/MacOS_Monterey_logo.png" alt="Logo" width="64" height="64">
 
 Data Visualization
 * [Numbers](https://www.apple.com/numbers/)
+<img src="Images/numbers-logo.png" alt="Logo" width="64" height="64">
 
 
 
@@ -118,3 +152,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/wmauz677/marchmadness2023?style=for-the-badge
 [license-url]: https://github.com/wmauz677/personalWeb/blob/gh-pages/LICENSE
 [project-screenshot]: Images/project-screenshot.png
+
+<style>
+mark{
+    color:red;
+}
+</style>
