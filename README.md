@@ -59,16 +59,17 @@ The purpose of this project is to produce a model to predict the winners of the 
 <table border="3">
 
   <tr align="center">
-   <td></td>
    <td><img src="Images/vs-code-icon.png" alt="Logo" width="64" height="64"></td>
    <td><img src="Images/jupyter-logo.png" alt="Logo" width="64" height="64"></td>
    <td><img src="Images/python-logo.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/GitHub-Mark-64px.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/ITerm2.png" alt="Logo" width="64" height="64"></td>
+   <td><img src="Images/MacOS_Monterey_logo.png" alt="Logo" width="64" height="64"></td>
   </tr>
 
  </tr>
  <tr align="center">
  
-  <td><strong>Name</strong</td>
   <td>
   <a href="https://code.visualstudio.com">VSCode</a>
   </td>
@@ -78,29 +79,7 @@ The purpose of this project is to produce a model to predict the winners of the 
   <td>
    <a href="https://www.python.org">Python</a>
   </td>
- </tr>
- <tr align="center">
-    <td><strong>Purpose</strong</td>
-    <td>Code Editor</td>
-    <td>Notebook</td>
-    <td>Language</td>
- </tr>
-</table>
-<!-- Table 2 -->
-<table border="3">
-
-  <tr align="center">
-   <td></td>
-   <td><img src="Images/GitHub-Mark-64px.png" alt="Logo" width="64" height="64"></td>
-   <td><img src="Images/ITERM2.png" alt="Logo" width="64" height="64"></td>
-   <td><img src="Images/MacOS_Monterey_logo.png" alt="Logo" width="64" height="64"></td>
-  </tr>
-
- </tr>
- <tr align="center">
- 
-  <td><strong>Name</strong</td>
-  <td>
+    <td>
   <a href="https://github.com/wmauz677">Github</a>
   </td>
   <td>
@@ -111,7 +90,9 @@ The purpose of this project is to produce a model to predict the winners of the 
   </td>
  </tr>
  <tr align="center">
-    <td><strong>Purpose</strong</td>
+    <td>Code Editor</td>
+    <td>Notebook</td>
+    <td>Language</td>
     <td>Developer Platform</td>
     <td>Terminal</td>
     <td>Operating System</td>
@@ -122,7 +103,6 @@ The purpose of this project is to produce a model to predict the winners of the 
 <table border="3">
 
   <tr align="center">
-   <td></td>
    <td><img src="Images/numbers-logo.png" alt="Logo" width="64" height="64"></td>
    <td><img src="Images/scikitlearn-logo.png" alt="Logo" width="64" height="64"></td>
    <td><img src="Images/feature-engine-logo.png" alt="Logo" width="64" height="64"></td>
@@ -131,7 +111,6 @@ The purpose of this project is to produce a model to predict the winners of the 
  </tr>
  <tr align="center">
  
-  <td><strong>Name</strong</td>
   <td>
   <a href="https://www.apple.com/numbers/">Numbers</a>
   </td>
@@ -143,7 +122,6 @@ The purpose of this project is to produce a model to predict the winners of the 
   </td>
  </tr>
  <tr align="center">
-    <td><strong>Purpose</strong</td>
     <td>Data Visualization</td>
     <td>ML Library</td>
     <td>Data Transformation</td>
