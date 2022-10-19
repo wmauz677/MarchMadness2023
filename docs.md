@@ -20,11 +20,9 @@ Project Start: September 28, 2022
 
 7. Model tuning
 
-8. Model serving (if applicable)
+8. [Acknowledgements](#9-Acknowledgements)
 
-9. [Acknowledgements](#9-Acknowledgements)
-
-10. [License](#10-License)
+9. [License](#10-License)
 
 ## 1. Problem Statement
 
@@ -41,7 +39,7 @@ The purpose of this project is to produce a model to predict the winners of the 
 ### **Files:**
 
 #### Data Exploration
-*'00-data-exploration.ipynb'*
+*'02x-data-exploration.ipynb'*
 
 This file is intended to be run once (and only once) to establish the data foundation for the project. 
 
@@ -57,7 +55,7 @@ This file is intended to be run once (and only once) to establish the data found
 - Writes Teams Dictionary to 'Data/teams_dictionary.pkl'
 
 #### Data Acquisition
-*'01-data-acquisition.ipynb'*
+*'02y-data-acquisition.ipynb'*
 
 This can be run multiple times in different configurations depending on the data the user would like to collect. The file performs the following actions:
 
@@ -70,13 +68,8 @@ This can be run multiple times in different configurations depending on the data
 - Reads 'result_dictionary.pkl'
 - Compiles dataframe with all team stats + march madness results for a given year. Writes this dataframe to: 'Data/Madness/{year}.csv'
 
-
-## 3. Exploratory Data Analysis
-
-### **Files:**
-
 #### Data Composition
-*'data-composition.ipynb'*
+*'02z-data-composition.ipynb'*
 
 Compiles data for use in the exploratory data analysis.
 
@@ -87,15 +80,19 @@ Compiles data for use in the exploratory data analysis.
 - Compiles March Madness dataframes from teams_dictionary and results_dictionary and writes to  'Data/Madness/{year}.csv'
 - Compiles are March Madness year dataframes into one larger dataframe and writes to 'Data/Madness/all_years.csv'
 
+## 3. Exploratory Data Analysis
+
+### **Files:**
+
 #### Exploratory Data Analysis
-*'02-exploratory-data-anlysis.ipynb'*
+*'03-exploratory-data-anlysis.ipynb'*
 
 ## 4. Feature Engineering
 
 ### **Files:**
 
 #### Feature Engineering
-*'03-feature-engineering.ipynb'*
+*'04-feature-engineering.ipynb'*
 
 ## 5. Feature Selection
 
