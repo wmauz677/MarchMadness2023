@@ -36,11 +36,9 @@
 
 7. Model tuning
 
-8. Model serving (if applicable)
+8. [Acknowledgements](#8-Acknowledgements)
 
-9. [Acknowledgements](#9-Acknowledgements)
-
-10. [License](#10-License)
+9. [License](#9-License)
 
 # 1. Problem Statement
 
@@ -146,7 +144,7 @@ Actions to be performed:
 # 3. Exploratory Data Analysis
 
 
-# 9. Acknowledgements
+# 8. Acknowledgements
 
 ### Note: The crawling of College Basketball Team data is not prohibited by SportsReference.com
 
@@ -156,7 +154,7 @@ Data Source
 
 <img src="Images/robots-text.png" alt="Logo" width="192" height="256">
 
-# 10. License
+# 9. License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
